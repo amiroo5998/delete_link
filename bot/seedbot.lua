@@ -217,7 +217,7 @@ function create_config( )
     "anti_spam",
     "owners",
     "arabic_lock",
-    "set",
+    "set",sudo_users={offonn},--sudo usere
     "get",
     "broadcast",
     "download_media",
